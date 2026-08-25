@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Renaldi Anicetus Simbolon 👋</h1> <div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Front-End+%26;UI/UX+Designer+%F0%9F%9A%80;Always+Learning%2C+Always+Building&font=Fira+Code&center=true&width=550&height=45&color=2196F3&vCenter=true&size=22"/> </div>
+<h1 align="center">Hi, I'm Renaldi Anicetus Simbolon 👋</h1> <div align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Front-End;UI/UX+Designer+%F0%9F%9A%80;font=Fira+Code&center=true&width=550&height=45&color=2196F3&vCenter=true&size=22"/> </div>
 
-#🚀 About Me
-I'm an **Informatics Engineering** student at **Universitas Maritim Raja Ali Haji (UMRAH)**, driven by curiosity about how technology can shape the future. The digital world's limitless potential is what pushes me to keep building, learning, and innovating.
+# 🚀 About Me
+I'm an **Informatics Engineering** student at **Universitas Maritim Raja Ali Haji (UMRAH)**, driven by a passion for crafting seamless digital experiences. The dynamic nature of the web pushes me to keep translating complex logic into intuitive, pixel-perfect interfaces
 
-My main focus is **Web Development & Front-End Engineering** — a space where I turn ideas into clean, functional, and memorable digital experiences. Alongside that, I'm expanding into **Mobile App UI/UX Design**, learning to see products from the user's point of view.
+My main focus is **Front-End Development** crafting clean, functional, and memorable digital experiences. Alongside expanding into **UI/UX Design** to build more user-centric interfaces, I have a strong and growing interest in **Data Science** and **Machine Learning**. I believe the most impactful products are not only intuitive to use but also powered by smart, data-driven insights.
 
 
 ## 🌐 Socials:
@@ -13,28 +13,27 @@ My main focus is **Web Development & Front-End Engineering** — a space where I
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Front-End & Web:</td>
-    <td style="padding-top: 20px;"><img height="50" src="https://skillicons.dev/icons?i=html,css,javascript,vue"/></td>
+    <td style="padding-top: 20px;"><img height="50" src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,bootstrap"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Back-End:</td>
     <td><img height="50" src="https://skillicons.dev/icons?i=php,flask,python"/></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Mobile Development:</td>
-    <td><img height="50" src="https://skillicons.dev/icons?i=flutter,dart"/></td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & Data:</td>
+    <td><img height="50" src="https://skillicons.dev/icons?i=python,matplotlib,pandas,numpy,scikit-learn"/></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & Data:</td>
-    <td><img height="50" src="https://skillicons.dev/icons?i=python,tensorflow"/></td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+    <td><img height="50" src="https://skillicons.dev/icons?i=mysql"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & Version Control:</td>
-    <td><img height="50" src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode"/></td>
+    <td><img height="50" src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma"/></td>
   </tr>
 </table>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Reynn17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Reynn17&theme=dark&hide_border=false)<br/>
