@@ -32,7 +32,7 @@ My main focus is **Front-End Development** crafting clean, functional, and memor
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & Version Control:</td>
-    <td><img height="50" src="https://skillicons.dev/icons?i=git,github,vscode,canva,figma"/></td>
+    <td><img height="50" src="https://skillicons.dev/icons?i=git,github,vscode,figma"/></td>
   </tr>
 </table>
 
