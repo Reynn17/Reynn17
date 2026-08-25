@@ -1,4 +1,3 @@
-# Reyynn17
 # 💫 About Me:
 Renaldi Anicetus Simbolon
 
