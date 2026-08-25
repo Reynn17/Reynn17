@@ -24,15 +24,16 @@ My main focus is **Front-End Development** crafting clean, functional, and memor
   </tr>
   <tr>
   <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & Data:</td>
+  <tr>
+  <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">AI & Data:</td>
   <td>
-    <!-- Python dari skillicons (opsional, bisa pakai shields juga) -->
-    <img align="center" height="40" src="https://skillicons.dev/icons?i=python"/>
-    <img align="center" height="40" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-    <img align="center" height="40" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-    <img align="center" height="40" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-    <!-- Library dari Shields.io -->
-  
+    <!-- Menggunakan ikon persegi yang seragam dari penyedia yang konsisten -->
+    <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="padding-right: 5px;" />
+    <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" style="padding-right: 5px;" />
+    <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" style="padding-right: 5px;" />
+    <img align="center" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" />
   </td>
+</tr>
 </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
