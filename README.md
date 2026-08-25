@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Renaldi Anicetus Simbolon 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=45&color=2196F3&lines=Front-End+Developer;UI%2FUX+Designer;Data+Science+%26+ML+Enthusiast+%F0%9F%9A%80" alt="Typing effect" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=600&height=45&color=2196F3&lines=Front-End+Developer;UI%2FUX+Designer;Data+Science+%26+ML+Enthusiast" alt="Typing effect" />
 </div>
 
 # 🚀 About Me
