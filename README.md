@@ -23,9 +23,17 @@ My main focus is **Front-End Development** crafting clean, functional, and memor
     <td><img height="50" src="https://skillicons.dev/icons?i=php,flask,python"/></td>
   </tr>
   <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & Data:</td>
-    <td><img height="50" src="https://skillicons.dev/icons?i=python,matplotlib,pandas,numpy,scikit-learn"/></td>
-  </tr>
+  <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & Data:</td>
+  <td>
+    <!-- Python dari skillicons (opsional, bisa pakai shields juga) -->
+    <img align="center" height="40" src="https://skillicons.dev/icons?i=python"/>
+    <img align="center" height="40" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+    <img align="center" height="40" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+    <img align="center" height="40" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <!-- Library dari Shields.io -->
+  
+  </td>
+</tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
     <td><img height="50" src="https://skillicons.dev/icons?i=mysql"/></td>
