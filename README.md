@@ -22,9 +22,6 @@ My main focus is **Front-End Development** crafting clean, functional, and memor
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Back-End:</td>
     <td><img height="50" src="https://skillicons.dev/icons?i=php,flask,python"/></td>
   </tr>
-  <tr>
-  <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & Data:</td>
-  <tr>
   <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">AI & Data:</td>
   <td>
     <!-- Menggunakan ikon persegi yang seragam dari penyedia yang konsisten -->
